@@ -7,4 +7,5 @@ This repository contains the R code used for sample A1 as a representative examp
 - `02_ARGs_comparison_heatmap.ipynb`: comparison of resistance genes across samples and heatmap
 - `03_CARD_merge.ipynb`: merging of the CARD annotation tables
 - `04_CARD_counts.ipynb`: counts used in Sections 3.7-3.9 of the report
+
 Note: the input files are not included in this repository. The code reads the output tables of the tools used in the study (seqtk_comp, AMRFinderPlus, CAT and the CARD annotation tables), and the file names used in the code refer to these tables.
